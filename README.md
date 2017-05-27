@@ -57,8 +57,7 @@ Segue as etapas do tutorial, direitamente da documentação e do código fonte:
     - [Código Fonte](https://github.com/gilsondev/django-basics/tree/v3.6)
   - Nomes de namespaces em URLs
     - [Documentação](https://docs.djangoproject.com/pt-br/1.11/intro/tutorial03/#namespacing-url-names)
-    - [Código Fonte: Opção <= Django 1.8](https://github.com/gilsondev/django-basics/tree/v3.7)
-    - [Código Fonte: Opção >= Django 1.10](https://github.com/gilsondev/django-basics/tree/v3.8)
+    - [Código Fonte](https://github.com/gilsondev/django-basics/tree/v3.8)
 - Escrevendo sua primeira aplicação Django: Parte 4
   - Escrevendo formulário simples
     - [Documentação](https://docs.djangoproject.com/pt-br/1.11/intro/tutorial04/#write-a-simple-form)
