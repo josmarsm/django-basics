@@ -89,9 +89,6 @@ Segue as etapas do tutorial, direitamente da documentação e do código fonte:
   - Customizando aparência do Admin
     - [Documentação](https://docs.djangoproject.com/pt-br/1.11/intro/tutorial07/#customize-the-admin-look-and-feel)
     - [Código Fonte](https://github.com/gilsondev/django-basics/tree/v7.3)
-- Tutorial Avançado: Como escrever aplicações reusáveis
-  - [Documentação](https://docs.djangoproject.com/pt-br/1.11/intro/reusable-apps)
-  - [Código Fonte](https://github.com/gilsondev/django-basics)
 
 ## Instalação
 
@@ -168,22 +165,6 @@ Successfully installed django-1.11
 
 ```bash
 (.venv)$ python manage.py test
-```
-
-## Configurando sua aplicação reutilizável *polls*
-
-Se pegou o projeto na versão do app reutilizável (branch master), execute esse comando:
-
-```bash
-(.venv)$ cd django-polls
-(.venv)$ python setup.py sdist
-(.venv)$ ...
-```
-
-Agora instale a sua app plugável:
-
-```bash
-(.venv)$ pip install django-polls/dist/django-polls-0.1.tar.gz
 ```
 
 ## Dúvidas ou problemas
