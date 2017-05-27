@@ -15,7 +15,7 @@ Segue as etapas do tutorial, direitamente da documentação e do código fonte:
     - [Documentação](https://docs.djangoproject.com/pt-br/1.11/intro/tutorial01/#creating-a-project)
     - [Código Fonte](https://github.com/gilsondev/django-basics/tree/v1.0)
   - Criando a aplicação `polls`
-    - [Documentação]https://docs.djangoproject.com/pt-br/1.11/intro/tutorial01/#creating-the-polls-app)
+    - [Documentação](https://docs.djangoproject.com/pt-br/1.11/intro/tutorial01/#creating-the-polls-app)
     - [Código Fonte](https://github.com/gilsondev/django-basics/tree/v1.1)
   - Escrevendo sua primeira view
     - [Documentação](https://docs.djangoproject.com/pt-br/1.11/intro/tutorial01/#write-your-first-view)
